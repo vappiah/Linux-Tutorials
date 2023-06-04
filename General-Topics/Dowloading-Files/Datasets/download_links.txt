@@ -1,7 +1,5 @@
 https://github.com/vappiah/Machine-Learning-Tutorials/raw/main/datasets/cancer_gene_expression.zip
 https://github.com/vappiah/Machine-Learning-Tutorials/raw/main/datasets/diabetes-pima.csv
 https://github.com/vappiah/Machine-Learning-Tutorials/raw/main/datasets/malaria_clin_data.csv
-https://zenodo.org/record/5702887/files/train_X_10.tsv
-https://zenodo.org/record/5702887/files/train_y_10.tsv
-https://zenodo.org/record/5702887/files/test_X_10.tsv
-https://zenodo.org/record/5702887/files/test_y_10.tsv
+https://zenodo.org/record/6457007/files/GSM461176_untreat_single_featureCounts.counts
+https://zenodo.org/record/6457007/files/GSM461177_untreat_paired_featureCounts.counts
